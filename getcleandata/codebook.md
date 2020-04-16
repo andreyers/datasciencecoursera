@@ -77,7 +77,7 @@ tBodyGyroJerkMean
 
 -----
 
-I have removed parentheticals and renamed these variables with descriptive, tidier names using the following replacements:
+In this dataset, we use only variables from the original dataset that represent the mean and standard deviation of each variable. I have removed parentheticals and renamed these variables with descriptive, tidier names using the following replacements:
 
 * f = FrequencyDomain
 * t = TimeDomain
@@ -86,6 +86,6 @@ I have removed parentheticals and renamed these variables with descriptive, tidi
 * Mag = Magnitude
 * mean = Mean
 * std = Standard Deviation
-* - = _
+* \- = _
 
 ========================================

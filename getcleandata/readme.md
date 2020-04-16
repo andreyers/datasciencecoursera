@@ -26,7 +26,8 @@ You should create one R script called run_analysis.R that does the following.
 ========================================
 ## Script Description:
  The 'run_analysis.R' script tidies and saves accelerometer data from Samsung Galaxy S phones 
- and creates a second dataset with analysis (average) for each variable.
+ and creates a second dataset of computed average values of the mean and standard deviation variable.
+ The variables are computed by subject and activity.
 
 ========================================
 ## Dataset Files:
